@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e07664b-a369-4ca1-818e-7a458394ef68" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.phar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/fonts/fontawesome-webfontd41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/fonts/fontawesome-webfonte0a5.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/fonts/fontawesome-webfonte0a5.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/fonts/fontawesome-webfonte0a5.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/app-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/app-img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/avatar-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/clients-avatar-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/company-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/flags/32/ES.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/flags/32/FR.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/flags/32/PT.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/flags/32/US.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/footer-map-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/icon-prifile-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/icon-prifile-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/icon-prifile-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/icon-ver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/main-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/med-avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/member-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/member-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/member-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/photostream.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/photostream1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/photostream2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/photostream3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/photostream4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/photostream6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/pro-img-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/pro-img-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/profile-bnr.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/profile-img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/sm-avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/sponser-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/sponsor_logo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/sponsor_logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/sponsor_logo3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/sponsor_logo4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/sponsor_logo5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/sponsor_logo6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/user-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/b-post-image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/blog-image-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/blog-image-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/blog-image-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/blog-image-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/blog-image-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/blog-image-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/blog-image-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/blog-image-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/blog-image-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/blog-logo-image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/copywrite-block-img1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/member-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/member-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/member-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/p-post-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/p-post-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/p-post-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/portfolio-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/portfolio-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/portfolio-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/portfolio-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/portfolio-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/portfolio-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/portfolio-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/portfolio-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/pricing-table-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/slider-img/slider-bg-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/plugins/mejs/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/plugins/mejs/bigplay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/plugins/mejs/controls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/plugins/mejs/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/plugins/mejs/skipback.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/cache/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/logs/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/sessions/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/PIDevAlpha1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/commandlinetools/Composer_1_17_17_12_53_PM_c.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/commandlinetools/Symfony_1_17_17_12_54_PM_s.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppCache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_prod.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_test.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/parameters.yml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/security.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/symfony_requirements" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/AppBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Controller/DefaultController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/DependencyInjection/Configuration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/DependencyInjection/SocialProMainExtension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/config/routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/config/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/css/grabbing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/css/main-style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/fonts/fontawesome-webfonte0a5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/fonts/fontawesome-webfonte0a5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/images/flags/32/en.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/category-header-business.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/category-header-jobs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/img/category-header-restaurant.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/gmap3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/jquery-2.1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/jquery.ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/plugins/jquery.flexslider-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/plugins/mejs/bigplay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/plugins/mejs/controls.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/plugins/rangeslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/plugins/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/plugins/superfish.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/uou-accordions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/js/uou-tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/views/Default/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/views/layout.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/SocialProMainBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SocialPro/MainBundle/Tests/Controller/DefaultControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/AppBundle/Controller/DefaultControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/SymfonyRequirements.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app_dev.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/robots.txt" />
+    </list>
+    <ignored path="PIDevAlpha1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>C:\wamp64\www\PIDevAlpha1\composer.json</pharConfigPath>
+    <pharPath>C:\wamp64\www\PIDevAlpha1\composer.phar</pharPath>
+    <phpPath>C:\wamp64\bin\php\php5.6.16\php.exe</phpPath>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PIDevAlpha1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="routing.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config_test.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/config_test.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config_prod.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/config_prod.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config_dev.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/views/Default/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="49" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/views/layout.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="security.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/services.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parameters.yml.dist" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="composer install" />
+      <command text="s generate:bundle" />
+    </commandsHistory>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/views/Default/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/public/layout.html.twig" />
+        <option value="$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/views/layout.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pidevAlpha1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pidevAlpha1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pidevAlpha1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.zend.framework.tool" />
+    <property name="settings.editor.splitter.proportion" value="0.251714" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\PIDevAlpha1\src\SocialPro\MainBundle\Resources\views" />
+      <recent name="C:\wamp64\www\PIDevAlpha1\src\SocialPro\MainBundle\Resources\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e07664b-a369-4ca1-818e-7a458394ef68" name="Default" comment="" />
+      <created>1484653023112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484653023112</updated>
+      <workItem from="1484653025120" duration="3755000" />
+      <workItem from="1484852114258" duration="619000" />
+      <workItem from="1484853016427" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4436000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="49" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="49" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialPro/MainBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="56" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="49" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialPro/MainBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
