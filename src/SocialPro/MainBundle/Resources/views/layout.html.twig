@@ -13,9 +13,9 @@
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 
     <!-- Style Sheet -->
-    <link rel="stylesheet" href="css/owl.carousel.css">
-    <link rel="stylesheet" href="css/main-style.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="{{ asset("public/css/owl.carousel.css") }}">
+    <link rel="stylesheet" href="{{ asset("public/css/main-style.css") }}">
+    <link rel="stylesheet" href="{{ asset("public/css/style.css") }}">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -47,11 +47,11 @@
                     <li><a href="#">Login</a></li>
                     <li><a href="#">Register</a></li>
                 </ul>
-                <div class="language"> <a href="#" class="toggle"><img src="images/flags/32/US.png" alt=""> ENG</a>
+                <div class="language"> <a href="#" class="toggle"><img src="{{ asset("public/images/flags/32/US.png") }}" alt=""> ENG</a>
                     <ul>
                         <li><a href="#"><img src="{{ asset('') }}" alt=""> ENG</a></li>
-                        <li><a href="#"><img src="images/flags/32/FR.png" alt=""> FR</a></li>
-                        <li><a href="#"><img src="images/flags/32/ES.png" alt=""> ES</a></li>
+                        <li><a href="#"><img src="{{ asset("public/images/flags/32/FR.png") }}" alt=""> FR</a></li>
+                        <li><a href="#"><img src="{{ asset("public/images/flags/32/ES.png") }}" alt=""> ES</a></li>
                     </ul>
                 </div>
             </div>
@@ -62,7 +62,7 @@
 
     <div class="box-shadow-for-ui">
         <div class="uou-block-2b">
-            <div class="container"> <a href="#" class="logo"><img src="images/logo.png" alt=""></a> <a href="#" class="mobile-sidebar-button mobile-sidebar-toggle"><span></span></a>
+            <div class="container"> <a href="#" class="logo"><img src="{{ asset("public/images/logo.png") }}" alt=""></a> <a href="#" class="mobile-sidebar-button mobile-sidebar-toggle"><span></span></a>
                 <nav class="nav">
                     <ul class="sf-menu">
                         <li class="active"><a href="index-2.html"><i class="fa  fa-home"></i></a></li>
